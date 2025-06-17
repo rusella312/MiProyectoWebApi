@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 2,
+    "Title": "demon slayer",
+    "Author": "tanjiro",
+    "Genre": "cazadores",
+    "PublicationDate": "1997-07-22T00:00:00",
+    "Volumes": 105,
+    "IsOngoing": true
+  },
+  {
+    "Id": 3,
+    "Title": "demon slayer",
+    "Author": "tanjiro",
+    "Genre": "cazadores",
+    "PublicationDate": "1997-07-22T00:00:00",
+    "Volumes": 105,
+    "IsOngoing": true
+  },
+  {
+    "Id": 4,
+    "Title": "demon slayer",
+    "Author": "tanjiro",
+    "Genre": "cazadores",
+    "PublicationDate": "1997-07-22T00:00:00",
+    "Volumes": 105,
+    "IsOngoing": true
+  }
+]
